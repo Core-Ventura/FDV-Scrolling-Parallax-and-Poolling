@@ -13,3 +13,5 @@ Para realizar la actividad he realizado dos pequeñas escenas recreando el flapp
 ![](Gif-FDVTiles1.gif)
 
 2) En la segunda, el canguro será el que se mueva, utilizando la técnica de scrolling parallax. En este caso los tiles no se moverán, sino que será el canguro el que los vaya superando con su movimiento.
+
+![](Gif-FDVTiles2.gif)
