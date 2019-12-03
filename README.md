@@ -7,7 +7,7 @@ Desarrollar ejemplos que implementen los siguientes casos:
 3) Fondo con efecto parallax. El efecto empieza cuando el jugador empieza a moverse, esto se debe comunicar mediante eventos.
 4) Utilizar la técnica de pool de objetos para ir creando elementos en el juego sobre los que debe saltar el jugador evitándolos o para adquirir puntos si salta sobre ellos.
 
-Para realizar la actividad he realizado dos pequeñas escenas recreando el flappy bird. 
+Para realizar la actividad he realizado dos pequeñas escenas recreando el flappy bird. En ambos casos he utilizado la técnica de object poolling. 
 1) En la primera, el canguro no se moverá y se le irán acercando los correspondientes Tiles junto a un fondo que se moverá mediante offset de coordenadas de Textura. 
 
 ![](Gif-FDVTiles1.gif)
