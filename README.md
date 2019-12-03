@@ -9,5 +9,7 @@ Desarrollar ejemplos que implementen los siguientes casos:
 
 Para realizar la actividad he realizado dos pequeñas escenas recreando el flappy bird. 
 1) En la primera, el canguro no se moverá y se le irán acercando los correspondientes Tiles junto a un fondo que se moverá mediante offset de coordenadas de Textura. 
+
 ![](Gif-FDVTiles1.gif)
+
 2) En la segunda, el canguro será el que se mueva, utilizando la técnica de scrolling parallax. En este caso los tiles no se moverán, sino que será el canguro el que los vaya superando con su movimiento.
